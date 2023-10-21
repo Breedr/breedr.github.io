@@ -1,0 +1,30 @@
+Pokémon (19)
+4 Koffing UNB 73
+4 Weezing UNB 74
+2 Tapu Koko PR-SM 30
+1 Tapu Lele PR-SM 45
+1 Larvitar LOT 115
+1 Ditto ♢ LOT 154
+1 Blitzle LOT 81
+1 Zebstrika LOT 82
+1 Oranguru SUM 113
+1 Marshadow SLG 45
+1 Mew UNB 76
+1 Mr. Mime TEU 66
+
+Trainer (33)
+4 Lillie UPR 125
+4 Cynthia UPR 119
+1 Guzma BUS 115
+4 Nest Ball SUM 123
+4 Mysterious Treasure FLI 113
+3 Pokégear 3.0 UNB 182
+2 Ultra Ball SLG 68
+2 Rescue Stretcher GRI 130
+2 Counter Catcher CIN 91
+4 Spell Tag LOT 190
+3 Shrine of Punishment CES 143
+
+Energy (8)
+4 Double Colorless Energy SLG 69
+4 Counter Energy CIN 100
