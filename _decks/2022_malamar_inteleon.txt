@@ -1,0 +1,26 @@
+Pokémon (21)
+4 Inkay CRE 69
+4 Malamar CRE 70
+4 Sobble CRE 41
+3 Drizzile SSH 56
+1 Inteleon SSH 58
+1 Inteleon CRE 43
+2 Remoraid BST 36
+2 Octillery BST 37
+
+Trainer (33)
+4 Cynthia's Ambition BRS 138
+4 Korrina's Focus BST 128
+4 Brawly CRE 131
+4 Evolution Incense SSH 163
+4 Level Ball BST 129
+4 Fog Crystal CRE 140
+4 Scoop Up Net RCL 165
+2 Rescue Carrier EVS 154
+1 Ordinary Rod SSH 171
+1 Escape Rope BST 125
+1 Tower of Waters BST 138
+
+Energy (6)
+4 Spiral Energy CRE 159
+2 Psychic Energy 5
