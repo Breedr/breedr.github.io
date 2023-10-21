@@ -4,8 +4,7 @@ mkdir -p "_decks/$2/img/"
 
 filename="_decks/$2/img/$3.png"
 
-if [ ! -f "$filename" ]; then
-   
+if [ ! -f "$filename" ]; then   
   curl 'https://limitlesstcg.com/tools/pnggen' \
     -H 'authority: limitlesstcg.com' \
     -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
@@ -21,8 +20,6 @@ if [ ! -f "$filename" ]; then
     --compressed \
     -o "$filename"
 
-elif; then
-
+else
    echo "File $filename already exists" >&2 
-
 fi
